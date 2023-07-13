@@ -1,3 +1,4 @@
 # Simon-Game
-JQuery is nice.
+JQuery is nice
+
 [Simon Game]()
